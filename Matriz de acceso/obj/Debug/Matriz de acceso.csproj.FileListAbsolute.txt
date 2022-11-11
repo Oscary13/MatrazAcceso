@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\bin\Debug\Matriz de acceso.exe.config
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\bin\Debug\Matriz de acceso.exe
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\bin\Debug\Matriz de acceso.pdb
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz de acceso.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz de acceso.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz_de_acceso.Form1.resources
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz_de_acceso.Properties.Resources.resources
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz de acceso.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz de acceso.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz de acceso.exe
+C:\Users\oscar\source\repos\Matriz de acceso\Matriz de acceso\obj\Debug\Matriz de acceso.pdb
